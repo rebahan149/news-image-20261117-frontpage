@@ -16,6 +16,6 @@ A single front page that sums up one full day of world news — Tuesday 17 Novem
 
 ## How it was made
 
-The page is a single self-contained `index.html` (offline fonts, inline SVG illustrations drawn for this entry) rendered to a 1024×1024 PNG. It was designed and built in-session with Muse, modelling the leaders' recipe — many illustrated panels, a map, dense briefs — with an original masthead, layout and artwork. `main.py` emits the judged image and its dossier.
+The page is a single self-contained `index.html` (offline fonts, inline SVG illustrations drawn for this entry) rendered to a 1024×1024 PNG. It was designed and built in-session with Muse, modelling the leaders' recipe — many illustrated panels, a map, dense briefs — with an original masthead, layout and artwork. Every headline and brief was checked against the day's reported record before the page was drawn. `main.py` emits the judged image and its dossier.
 
 Referred by [@anjars](https://make.fun/r/eskhvp8c) — join make.fun: https://make.fun/r/eskhvp8c
